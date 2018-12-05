@@ -1,0 +1,34 @@
+.cima {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+
+.titulo {
+    font-size: 20px;
+}
+table{
+    text-align: center;
+}
+h2 {
+    font-family: 'Rajdhani', sans-serif;
+    text-align: center;  
+}
+#inputs {
+    margin-bottom:30px;
+    left: 20px;
+    top:10px;
+    width: 500px;
+}
+.mais {
+    margin-left: 10%;
+    display: flex;
+}
+.botao{
+    text-align: center;
+}
+a {
+    color: white;
+}
